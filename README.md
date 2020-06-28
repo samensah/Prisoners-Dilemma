@@ -1,3 +1,2 @@
-# Prisoner's-Dilemma
-
-Prisoner's dilemma - Game Theory
+# Prisoner's dilemma
+* Strategies taken by individuals on the prisoner's dilemma
